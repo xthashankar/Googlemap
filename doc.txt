@@ -1,0 +1,17 @@
+how to use google map api and generate the api key in google dashboard console
+-------------------------------------------------------------------------------
+First go to https://console.developers.google.com
+	-you can find many api of google product like youtube data api ,google search data api and goole maps etc.
+	-you should go to create new project
+	-then you should click ok button .
+	-after that go to the credentials
+	-and go to create credentials and your api will be generate 
+	-you should active(enable) the google product  and you should use google key iwhile your are coding
+	but it should store in  local storage.if u create variable Key
+				var key='AIzaSyAcL2i3dtrRThs4r74-G3d3hdywM-Pw'; //this is the example of variable which have google key
+	-you should pass this key while fetching the data in coding or hitting the url.
+	after that HAPPY CODING.
+
+
+ 
+	
